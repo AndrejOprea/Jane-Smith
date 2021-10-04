@@ -1,0 +1,198 @@
+html{
+    background-color:rgb(168, 163, 163);
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.nav{
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    width: 1260px;
+    height: 461px;
+    position: relative;
+    display: inline-block;
+
+}
+
+/* .poza{
+    
+    border: 2px solid red;
+    width: 1260px;
+    height: 400px;
+    margin: 40px;
+
+}
+ */
+ul{
+  
+    display: inline-block;
+    margin-left: 950px;
+    padding-left: 0px;
+
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 25px;
+    
+}
+
+a{
+    color: white;
+}
+
+
+.par1{
+    display: inline-block;
+    margin-left: 10px;
+    color: white;
+    block-size: fit-content;
+}
+
+.n1{
+
+    background-color: black;
+    width: 1256px;
+    height: 60px;
+}
+
+.divmic1{
+    display: inline-block;
+   
+    border-radius: 9px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 550px;
+    background-color: white;
+
+}
+
+.divmic2{
+    display: inline-block;
+    /* border: 2px solid red; */
+    width: 100%;
+    width: 1254px;
+    height: 400px;
+    position: absolute;
+    
+}
+.divmic3{
+   
+    display: inline-block;
+   
+    border-radius: 9px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 550px;
+    background-color:black;
+
+
+}
+
+
+
+.par2{
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.par3{
+
+    color:yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.main{
+
+    display: inline-block;
+    width: 1260px;
+    height: 400px;
+
+
+}
+
+.mdiv1{
+    background-color: white;
+    display: inline-block;
+    line-height: 18px;
+    width: 420px;
+    height: 250px;
+    padding: 15px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 5px;
+   
+     overflow: auto; 
+}
+
+.mdiv2{
+    background-color: white;
+    display: inline-block;
+  
+    width: 350px;
+    height: 250px;
+    padding: 15px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border-radius: 5px;
+   
+     overflow: auto; 
+}
+
+.Goals{
+  
+    margin: 0px;
+    padding-left: 0px;
+}
+.g1{
+    display: inline-block;
+    list-style: none;
+   
+    border-radius: 3px;
+    margin-left: 20px    ;
+}
+
+.g1:nth-child(odd){
+    background-color: blue;
+}
+
+.g1:nth-child(even){
+
+    background-color: orange;
+}
+
+.footer{
+
+    display: inline-block;
+    width: 1260px;
+    height: 100px;
+    padding: 20px;
+    padding-top: 40px;
+
+}
+
+.fdiv1{
+
+    margin-left: 577px;
+
+}
+
+.fdiv2{
+    margin-left: 505px;
+
+}
+
+
+
